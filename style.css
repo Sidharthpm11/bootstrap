@@ -1,3 +1,5 @@
+@media (min-width:600px){
+
 a{
     font-weight: 600;
     color: #314584;
@@ -316,5 +318,9 @@ header
     font-size: 2.7rem;
     color: #fff;
     margin: 0px 30px;
+  }
+
+  
+
   }
   
